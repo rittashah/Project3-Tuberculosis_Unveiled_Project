@@ -1,0 +1,24 @@
+html,
+body,
+#map {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.scatter-chart {
+    width: 700px;
+    margin-right: 25px;
+}
+
+.bar-chart {
+    width: 500px;
+}
